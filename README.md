@@ -3,3 +3,7 @@
 
 - Estado del proyecto: En contrucción.
 - Fecha Octubre 2025
+
+Para ejecutar el sistema, debes poner
+
+´´´npm install react´´´
